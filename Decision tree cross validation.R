@@ -86,5 +86,3 @@ mean((pred.rpart-cost_test)^2)
 ggplot(data, aes(x = ADJ.ITEM96)) +
   geom_histogram()+
   scale_x_log10()
-
-
