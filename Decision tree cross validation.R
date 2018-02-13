@@ -88,4 +88,3 @@ ggplot(data, aes(x = ADJ.ITEM96)) +
   scale_x_log10()
 
 
-?element_text()
